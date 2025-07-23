@@ -1,4 +1,4 @@
-function fibonacciHasta13() {
+function fibonacci13() {
     let secuencia = [0, 1];
 
     while (true) {
@@ -10,4 +10,4 @@ function fibonacciHasta13() {
     return secuencia;
 }
 
-console.log(fibonacciHasta13());
+console.log(fibonacci13());
